@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Support</title>
+
+```
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #171a21;
+        color: #ffffff;
+    }
+
+    .container {
+        max-width: 850px;
+        margin: 0 auto;
+        padding: 60px 25px;
+    }
+
+    h1 {
+        font-size: 42px;
+        margin-bottom: 10px;
+    }
+
+    h2 {
+        margin-top: 40px;
+        color: #66c0f4;
+    }
+
+    p, li {
+        font-size: 17px;
+        line-height: 1.6;
+        color: #d6d7d8;
+    }
+
+    .card {
+        background: #1e232c;
+        border-radius: 10px;
+        padding: 25px;
+        margin-top: 25px;
+    }
+
+    .email {
+        color: #66c0f4;
+        font-weight: bold;
+    }
+
+    footer {
+        margin-top: 60px;
+        padding-top: 20px;
+        border-top: 1px solid #333;
+        color: #8f98a0;
+        font-size: 14px;
+    }
+</style>
+```
+
+</head>
+
+<body>
+
+<div class="container">
+
+```
+<h1>Game Support</h1>
+
+<p>
+    Welcome to the official support page for our game.
+    If you are experiencing a problem, please check the information below.
+</p>
+
+<div class="card">
+    <h2>Contact Support</h2>
+
+    <p>
+        If you need help with the game, please contact us by email:
+    </p>
+
+    <p class="email">
+        your-email@example.com
+    </p>
+
+    <p>
+        When contacting support, please include:
+    </p>
+
+    <ul>
+        <li>Your Steam username</li>
+        <li>The problem you encountered</li>
+        <li>Your operating system</li>
+        <li>Steps to reproduce the problem, if possible</li>
+        <li>A screenshot or video if it helps explain the issue</li>
+    </ul>
+</div>
+
+<div class="card">
+    <h2>Technical Issues</h2>
+
+    <p>
+        If the game crashes or does not start, please try:
+    </p>
+
+    <ul>
+        <li>Restarting Steam</li>
+        <li>Restarting your computer</li>
+        <li>Verifying the integrity of the game files</li>
+        <li>Updating your graphics drivers</li>
+        <li>Making sure your operating system is up to date</li>
+    </ul>
+</div>
+
+<div class="card">
+    <h2>Bug Reports</h2>
+
+    <p>
+        Found a bug? Please contact us and describe what happened.
+        The more information you provide, the easier it will be for us to investigate the issue.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Frequently Asked Questions</h2>
+
+    <h3>Where can I report a bug?</h3>
+    <p>
+        You can report bugs by contacting us at the support email above.
+    </p>
+
+    <h3>How long does support take to respond?</h3>
+    <p>
+        We will try to respond as soon as possible.
+    </p>
+</div>
+
+<footer>
+    © 2026 Your Game Name. All rights reserved.
+</footer>
+```
+
+</div>
+
+</body>
+</html>
